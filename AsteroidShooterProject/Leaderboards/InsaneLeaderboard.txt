@@ -1,0 +1,10 @@
+1 Gerry 429496729
+2 Jack 500
+3 Mars 499
+4 Brando 439
+5 Snoop 420
+6 Mars 205
+7 Angela 198
+8 Brian 157
+9 LeeeeeroyJenkins 109
+10 A2 42

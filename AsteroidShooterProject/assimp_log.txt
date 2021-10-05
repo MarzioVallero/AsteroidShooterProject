@@ -1,0 +1,68 @@
+Info,  T10908: Load ../AsteroidShooterProject/Resources/spaceshipInterior.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Error, T10908: OBJ/MTL: Unexpected illumination model (0-2 recognized)
+Skipping one or more lines with the same contents
+Info,  T10908: Entering post processing pipeline
+Warn,  T10908: Found 16 degenerated primitives
+Warn,  T10908: Found 38 degenerated primitives
+Info,  T10908: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T10908: Points: 0, Lines: 2, Triangles: 38, Polygons: 0 (Meshes, X = removed)
+Error, T10908: FindInvalidDataProcess fails on mesh uvcoords: All vectors are identical
+Skipping one or more lines with the same contents
+Info,  T10908: FindInvalidDataProcess finished. Found issues ...
+Error, T10908: Unable to compute tangents: UV0 and normals must be there 
+Skipping one or more lines with the same contents
+Info,  T10908: Tangents are undefined for line and point meshes
+Error, T10908: Unable to compute tangents: UV0 and normals must be there 
+Info,  T10908: Tangents are undefined for line and point meshes
+Error, T10908: Unable to compute tangents: UV0 and normals must be there 
+Info,  T10908: JoinVerticesProcess finished | Verts in: 227444 out: 137918 | ~39.4%
+Warn,  T10908: Mesh 33: Not suitable for vcache optimization
+Warn,  T10908: Mesh 35: Not suitable for vcache optimization
+Error, T10908: This algorithm works on triangle meshes only
+Skipping one or more lines with the same contents
+Info,  T10908: Cache relevant are 36 meshes (75506 faces). Average output ACMR is 1.778031
+Info,  T10908: Leaving post processing pipeline
+Info,  T10908: Load ../AsteroidShooterProject/Resources/spaceBackground.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Info,  T10908: Entering post processing pipeline
+Info,  T10908: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10908: JoinVerticesProcess finished | Verts in: 6 out: 4 | ~33.3%
+Info,  T10908: Cache relevant are 1 meshes (2 faces). Average output ACMR is 2.000000
+Info,  T10908: Leaving post processing pipeline
+Info,  T10908: Load ../AsteroidShooterProject/Resources/writeplayernameBackground.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Info,  T10908: Entering post processing pipeline
+Info,  T10908: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10908: JoinVerticesProcess finished | Verts in: 6 out: 4 | ~33.3%
+Info,  T10908: Cache relevant are 1 meshes (2 faces). Average output ACMR is 2.000000
+Info,  T10908: Leaving post processing pipeline
+Info,  T10908: Load ../AsteroidShooterProject/Resources/mainmenuBackground.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Info,  T10908: Entering post processing pipeline
+Info,  T10908: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10908: JoinVerticesProcess finished | Verts in: 6 out: 4 | ~33.3%
+Info,  T10908: Cache relevant are 1 meshes (2 faces). Average output ACMR is 2.000000
+Info,  T10908: Leaving post processing pipeline
+Info,  T10908: Load ../AsteroidShooterProject/Resources/Meteorite.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Info,  T10908: Entering post processing pipeline
+Info,  T10908: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T10908: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10908: JoinVerticesProcess finished | Verts in: 3840 out: 1637 | ~57.4%
+Info,  T10908: Cache relevant are 1 meshes (1920 faces). Average output ACMR is 1.069271
+Info,  T10908: Leaving post processing pipeline
+Info,  T10908: Load ../AsteroidShooterProject/Resources/Cannon.obj
+Info,  T10908: Found a matching importer for this file format
+Info,  T10908: Import root directory is '../AsteroidShooterProject/Resources\'
+Info,  T10908: Entering post processing pipeline
+Info,  T10908: TriangulateProcess finished. All polygons have been triangulated.
+Info,  T10908: Points: 0, Lines: 0, Triangles: 1, Polygons: 0 (Meshes, X = removed)
+Info,  T10908: JoinVerticesProcess finished | Verts in: 2766 out: 2716 | ~1.8%
+Info,  T10908: Cache relevant are 1 meshes (1326 faces). Average output ACMR is 2.048265
+Info,  T10908: Leaving post processing pipeline
